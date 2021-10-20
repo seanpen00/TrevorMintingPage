@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TrevorMintingPage/build/static/css/main.59870a67.chunk.css",
+    "main.js": "/TrevorMintingPage/build/static/js/main.4c005943.chunk.js",
+    "main.js.map": "/TrevorMintingPage/build/static/js/main.4c005943.chunk.js.map",
+    "runtime-main.js": "/TrevorMintingPage/build/static/js/runtime-main.c554c519.js",
+    "runtime-main.js.map": "/TrevorMintingPage/build/static/js/runtime-main.c554c519.js.map",
+    "static/js/2.e03a5b2d.chunk.js": "/TrevorMintingPage/build/static/js/2.e03a5b2d.chunk.js",
+    "static/js/2.e03a5b2d.chunk.js.map": "/TrevorMintingPage/build/static/js/2.e03a5b2d.chunk.js.map",
+    "static/js/3.543a4054.chunk.js": "/TrevorMintingPage/build/static/js/3.543a4054.chunk.js",
+    "static/js/3.543a4054.chunk.js.map": "/TrevorMintingPage/build/static/js/3.543a4054.chunk.js.map",
+    "index.html": "/TrevorMintingPage/build/index.html",
+    "static/css/main.59870a67.chunk.css.map": "/TrevorMintingPage/build/static/css/main.59870a67.chunk.css.map",
+    "static/js/2.e03a5b2d.chunk.js.LICENSE.txt": "/TrevorMintingPage/build/static/js/2.e03a5b2d.chunk.js.LICENSE.txt",
+    "static/media/mintkeeper.8110fbd5.jpg": "/TrevorMintingPage/build/static/media/mintkeeper.8110fbd5.jpg",
+    "static/media/newbannere.a8a16e68.png": "/TrevorMintingPage/build/static/media/newbannere.a8a16e68.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c554c519.js",
+    "static/js/2.e03a5b2d.chunk.js",
+    "static/css/main.59870a67.chunk.css",
+    "static/js/main.4c005943.chunk.js"
+  ]
+}
